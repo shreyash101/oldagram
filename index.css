@@ -75,5 +75,9 @@ h2, p{
 
 .icons {
     width: 30px;
+    cursor: pointer;
+}
 
+.icons:hover {
+    opacity: 0.5;
 }
