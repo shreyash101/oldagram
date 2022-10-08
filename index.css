@@ -47,6 +47,10 @@ h2, p{
     font-weight: 700;
 }
 
+.post-info p {
+    font-size: 14px;
+}
+
 /* images */
 
 #logo {
