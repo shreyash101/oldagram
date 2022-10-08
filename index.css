@@ -27,6 +27,7 @@ html, body {
     justify-content: space-between;
     width: 42%;
     padding: 15px;
+    align-items: center;
 }
 
 .post-info {
